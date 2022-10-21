@@ -34,7 +34,11 @@
     }
   },
   "scripts": {
-    "dist": "rollup -c rollup.config.js"
+    "dist": "rollup -c rollup.config.js", 
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "deploy": "sh deploy.sh"
   },
   "devDependencies": {
     "@rollup/plugin-buble": "^0.21.3",
