@@ -1,6 +1,6 @@
 <template>
   <div class="github-ribbon">
-    <a target="_blank" href="https://github.com/ts1/flipbook-vue">Fork me on GitHub</a>
+    <a target="_blank" href="https://github.com/ts1/buddha-miracles-and-personal-experience">Fork me on GitHub</a>
   </div>
 </template>
 

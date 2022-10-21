@@ -1,11 +1,11 @@
 {
-  "name": "flipbook-vue",
+  "name": "buddha-miracles-and-personal-experience",
   "version": "1.0.0-alpha.4",
   "license": "MIT",
   "description": "3D page flip effect for Vue.js",
-  "homepage": "https://ts1.github.io/flipbook-vue/",
-  "author": "Takeshi Sone <takeshi.sone@gmail.com> (https://github.com/ts1)",
-  "repository": "github:ts1/flipbook-vue",
+  "homepage": "https://maharpyinnyar.github.io/buddha-miracles-and-personal-experience/",
+  "author": "Takeshi Sone <takeshi.sone@gmail.com> (https://github.com/maharpyinnyar)",
+  "repository": "github:maharpyinnyar/buddha-miracles-and-personal-experience",
   "keywords": [
     "vue",
     "flipbook",

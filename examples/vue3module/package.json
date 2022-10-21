@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.0.0",
-    "flipbook-vue": "link:../..",
+    "buddha-miracles-and-personal-experience": "link:../..",
     "vue": "^3.2.13"
   },
   "devDependencies": {

@@ -2,12 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vue/cli-service': ~5.0.0
-  flipbook-vue: link:../..
+  buddha-miracles-and-personal-experience: link:../..
   vue: ^2.6.14
   vue-template-compiler: ^2.6.14
 
 dependencies:
-  flipbook-vue: link:../..
+  buddha-miracles-and-personal-experience: link:../..
   vue: 2.7.8
 
 devDependencies:

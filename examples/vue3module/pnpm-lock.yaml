@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@babel/core': ^7.0.0
   '@vue/cli-service': ~5.0.0
-  flipbook-vue: link:../..
+  buddha-miracles-and-personal-experience: link:../..
   vue: ^3.2.13
 
 dependencies:
   '@babel/core': 7.18.10
-  flipbook-vue: link:../..
+  buddha-miracles-and-personal-experience: link:../..
   vue: 3.2.37
 
 devDependencies:

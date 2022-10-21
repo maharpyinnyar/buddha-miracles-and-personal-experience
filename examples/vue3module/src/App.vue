@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Flipbook from 'flipbook-vue'
+import Flipbook from 'buddha-miracles-and-personal-experience'
 const pages = [
   null,
   'images/1.jpg',

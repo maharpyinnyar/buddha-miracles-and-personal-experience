@@ -1,40 +1,40 @@
-# flipbook-vue
+# buddha-miracles-and-personal-experience
 
-[![npm version](https://badge.fury.io/js/flipbook-vue.svg)](https://badge.fury.io/js/flipbook-vue)
-![demo](https://github.com/ts1/flipbook-vue/workflows/demo/badge.svg)
+[![npm version](https://badge.fury.io/js/buddha-miracles-and-personal-experience.svg)](https://badge.fury.io/js/buddha-miracles-and-personal-experience)
+![demo](https://github.com/ts1/buddha-miracles-and-personal-experience/workflows/demo/badge.svg)
 
-`flipbook-vue` is a Vue component that displays images in 3D page flip effect.
+`buddha-miracles-and-personal-experience` is a Vue component that displays images in 3D page flip effect.
 
-Demo page is [here](https://ts1.github.io/flipbook-vue/).
+Demo page is [here](https://ts1.github.io/buddha-miracles-and-personal-experience/).
 
 ## Installation
 
 Install as a module:
 
 ```
-npm i -S flipbook-vue
+npm i -S buddha-miracles-and-personal-experience
 ```
 
 or
 
 ```
-yarn add flipbook-vue
+yarn add buddha-miracles-and-personal-experience
 ```
 
 or
 
 ```
-pnpm add flipbook-vue
+pnpm add buddha-miracles-and-personal-experience
 ```
 
 Or include in html:
 
 ```html
-<script src="https://unpkg.com/flipbook-vue"></script>
+<script src="https://unpkg.com/buddha-miracles-and-personal-experience"></script>
 ```
 
 > **BREAKING CHANGE**: This form now provides Vue 3 version.
-> If you are using Vue 2.x, use `"https://unpkg.com/flipbook-vue/dist/vue2/flipbook.min.js"` (preferred) or `"https://unpkg.com/flipbook-vue@0"`.
+> If you are using Vue 2.x, use `"https://unpkg.com/buddha-miracles-and-personal-experience/dist/vue2/flipbook.min.js"` (preferred) or `"https://unpkg.com/buddha-miracles-and-personal-experience@0"`.
 
 ## Usage
 
@@ -55,7 +55,7 @@ If installed as a module, with Vue 3.x,
 
 ```html
 <script>
-import Flipbook from 'flipbook-vue'
+import Flipbook from 'buddha-miracles-and-personal-experience'
 export default {
   components: { Flipbook }
 }
@@ -64,7 +64,7 @@ export default {
 
 To use with Vue 2.x,
 ```js
-import Flipbook from 'flipbook-vue/vue2'
+import Flipbook from 'buddha-miracles-and-personal-experience/vue2'
 ```
 
 ## Props
@@ -197,7 +197,7 @@ Example usage:
 </flipbook>
 ```
 
-For more practical usage, refer to [`src/App.vue`](https://github.com/ts1/flipbook-vue/blob/master/src/App.vue) (the demo page source).
+For more practical usage, refer to [`src/App.vue`](https://github.com/ts1/buddha-miracles-and-personal-experience/blob/master/src/App.vue) (the demo page source).
 
 These properties and methods can also be referred through `$refs` to the `flipbook` component.
 
